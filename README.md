@@ -11,7 +11,7 @@ A fundamental caveat must be made beforehand. There are certain conditions to be
 ## Simulation and Results
 Picking up a simple example of Normal Distribution $`N(θ^*,{σ^*}^2)`$, the MLE for $`θ`$, or $`θ_{MLE}`$, is:
 $$θ_{MLE} = \frac{1}{n}\sum_{i=1}^n x_i = x̄$$
-Considering mean $`θ^* = 5.0`$ and standard deviation $`σ = 3.0`$, a sample of length 10 is generated and its $`θ_{MLE}`$ is calculated according to the previous formula.
+Considering mean $`θ^* = 5.0`$ and standard deviation $`σ^* = 3.0`$, a sample of length 10 is generated and its $`θ_{MLE}`$ is calculated according to the previous formula.
 
 ![One sample MLE](one-sample-result.png)
 
