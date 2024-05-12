@@ -1,4 +1,4 @@
-# Maximum Likelihood Estimator: Simulation and Analysis
+# Maximum Likelihood Estimator: Expected Value
 
 ## Intro
 Maximum Likelihood Estimator (MLE) is a parameter estimation method for statistical models given a set of observed data. It is well-documented that the MLE approach provides highly accurate unbiased estimations. This repository aims to discuss the accuracy of MLE by comparing MLE values from synthetic data samples, created using known parameter values of an example density distribution, and present theoretical grounding in sequence.
